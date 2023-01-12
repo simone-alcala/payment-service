@@ -4,7 +4,7 @@
 
 ## Getting Started with Payment Service
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> Enter ID contract, date, total amount and number of installments to calculate the amount and due date of each installment.
 
 ## Folder Structure
 
